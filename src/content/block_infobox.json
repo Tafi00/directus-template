@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "variant": "default",
+    "info_group": 1,
+    "sort": null,
+    "icon": "6649382b-f63f-4e29-b0b0-928794ff9533",
+    "title": "Liền kề Thủ Đức kết nối\nTP.HCM dễ dàng",
+    "content": "Chỉ 15 phút về trung tâm TP. Thủ Đức, thuận tiện đi làm, học tập, kết nối các quận lớn như Bình Thạnh, Quận 1, Gò Vấp."
+  },
+  {
+    "id": 2,
+    "variant": "default",
+    "info_group": 1,
+    "sort": 1,
+    "icon": "a37ceb21-7dfd-44f8-bf54-6d0da81188f4",
+    "title": "Sống khỏe mỗi ngày",
+    "content": "Căn hộ wellness đầu tiên tại Dĩ An – với căn hộ 2 - 3 ban công, khu giặt sấy riêng, thiết kế bếp đảo, độ cao trần lên đến 2.8m. công viên xanh mát, hồ bơi điện phân muối chuẩn 5 sao, Spa Jjim Jil Bang, tầng thể thao - giải trí, Khu Kidzone cho cư dân nhí hay 13.000m2 diện tích mảng xanh được bố trí toàn khu dự án…\n\n"
+  },
+  {
+    "id": 3,
+    "variant": "default",
+    "info_group": 1,
+    "sort": 2,
+    "icon": "4fbce3ab-096f-4c01-83d9-4ae052ecc146",
+    "title": "Bàn giao hoàn thiện,\nchỉ việc dọn vào ở",
+    "content": "Nhận nhà với sàn gỗ, tủ bếp trên dưới, thiết bị vệ sinh cao cấp – tiết kiệm thời gian và chi phí hoàn thiện. Tặng gói nội thất 80 triệu cho căn 2 phòng ngủ."
+  }
+]

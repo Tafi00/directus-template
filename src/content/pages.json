@@ -1,0 +1,32 @@
+[
+  {
+    "id": "636dc283-e634-4d5d-aada-e6743db46036",
+    "sort": 1,
+    "title": "Home",
+    "permalink": "/",
+    "status": "published",
+    "published_at": "2025-04-07T18:17:00.000Z",
+    "seo": {
+      "meta_description": "Directus is a great choice for your headless CMS. I'm also padding out the meta description here just to get a check on the SEO score.",
+      "title": "Build your next website faster with our CMS Template",
+      "no_index": false,
+      "no_follow": false,
+      "og_image": "ea743e20-e6e9-4be8-a949-3771cd182810.png"
+    },
+    "date_created": "2025-05-07T00:49:42.958Z",
+    "user_created": "c6d0dff8-2b78-4d4f-a204-6f865545a974",
+    "date_updated": "2025-05-16T02:57:18.962Z",
+    "user_updated": "c6d0dff8-2b78-4d4f-a204-6f865545a974",
+    "template": "standard",
+    "blocks": [
+      "5cc01e34-2a8c-4cf0-b539-22c4b737654b",
+      "d4b36de6-7d56-468a-b361-2620a784018c",
+      "2b757f25-9c2f-446c-980f-87fb138c6766",
+      "4c6dfd4a-d459-4c77-b9f4-0ec5b8dd3be9",
+      "2d9abe8f-a7ad-480d-8fc7-603c712e2f40",
+      "529e6408-7372-4195-b82d-e444c06ac492",
+      "39d02b18-18d2-4c29-9268-038f72ea05fe",
+      "7e1ce212-3f8a-43b4-aff7-131bf4241e30"
+    ]
+  }
+]

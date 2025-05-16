@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "sort": null,
+    "headline": "TỪ 15 TRIỆU/THÁNG SỞ HỮU CĂN 2PN",
+    "tagline": "PHÁP LÝ HOÀN THIỆN - TIẾN ĐỘ VỮNG VÀNG",
+    "autoplay": null,
+    "interval": 5000,
+    "style": "cards_v2",
+    "cards_to_show": 3,
+    "show_arrows": false,
+    "show_indicators": true,
+    "image_ratio": "auto",
+    "show_pagination": true,
+    "description": "Ứng dụng trọn vẹn khái niệm wellness vào kiến trúc độc đáo và hệ tiện ích đỉnh cao, The Infinity Dĩ An kiến tạo nên chuẩn sống khỏe đúng nghĩa cho cư dân, nơi mọi trải nghiệm thường nhật đều góp phần nuôi dưỡng thể chất và tinh thần.\nKhông chỉ là nơi để ở, The Infinity Dĩ An còn là không gian sống tái tạo năng lượng và khơi nguồn cảm hứng sống tích cực mỗi ngày.",
+    "carousel_items": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 1,
+    "sort": null,
+    "headline": "THE INFINITY DĨ AN",
+    "tagline": "VỀ NHÀ LÀ CÓ TẤT CẢ",
+    "autoplay": true,
+    "interval": 5000,
+    "style": "coverflow",
+    "cards_to_show": 3,
+    "show_arrows": true,
+    "show_indicators": true,
+    "image_ratio": "1/1",
+    "show_pagination": true,
+    "description": "Bên cạnh những tiện ích đỉnh cao như hồ bơi điện phân muối, Jjim Jil Bang Spa chuẩn Hàn, tổ hợp gym, yoga hiện đại… gia chủ còn được thụ hưởng hệ tiện ích hiện hữu tại khu phức hợp đáng sống Charm City như: nhà thuốc, trường học, siêu thị, spa, trung tâm tiêm chủng … cùng 13.000 m2 mảng xanh và mật độ xây dựng chỉ 28%.",
+    "carousel_items": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

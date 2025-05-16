@@ -1,0 +1,21 @@
+{
+  "description": "We empower you to build the best site possible",
+  "id": "ab89c489-faea-4310-8b59-7ddb3caf279a",
+  "social_links": null,
+  "tagline": "The best site ever",
+  "title": "Your Site",
+  "url": "https://www.yoururl.com",
+  "favicon": "2b4a0ba0-52c7-4e10-b191-c803d8da6a36",
+  "logo": "43ddd7b8-9b2f-4aa1-b63c-933b4ae81ca2",
+  "openai_api_key": null,
+  "directus_url": "http://0.0.0.0:8055",
+  "logo_dark_mode": "ae390ba1-fcff-4b99-a445-5f19257095d1",
+  "accent_color": "#6644FF",
+  "date_created": "2025-05-14T07:39:09.438Z",
+  "user_created": "c6d0dff8-2b78-4d4f-a204-6f865545a974",
+  "date_updated": "2025-05-16T08:24:44.660Z",
+  "user_updated": "c6d0dff8-2b78-4d4f-a204-6f865545a974",
+  "hero": 1,
+  "footer": 1,
+  "register_form": 1
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "register_form_id": 1,
+    "text": "Nhận chính sách bán hàng",
+    "type": "modal1",
+    "sort": 1,
+    "url": null
+  },
+  {
+    "id": 2,
+    "register_form_id": 1,
+    "text": "Nhận bảng giá chi tiết",
+    "type": "modal2",
+    "sort": 2,
+    "url": null
+  },
+  {
+    "id": 3,
+    "register_form_id": 1,
+    "text": "Gọi",
+    "type": "tel",
+    "sort": 3,
+    "url": null
+  },
+  {
+    "id": 4,
+    "register_form_id": 1,
+    "text": "Tư vấn qua zalo",
+    "type": "zalo",
+    "sort": 4,
+    "url": null
+  }
+]
